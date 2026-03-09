@@ -71,7 +71,7 @@ Check out our [product demo video](https://mask.ki-sum.ai/#gallery) on the websi
 
 ### Chrome Web Store (recommended)
 
-> Coming soon — the extension is currently under review.
+> Coming soon — the extension is being prepared for Chrome Web Store submission.
 
 ### Supported Browsers
 
