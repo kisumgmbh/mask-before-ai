@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="MASK·BEFORE·AI" width="440" height="60">
-</p>
-
-<p align="center">
-  <strong>Protect your privacy before uploading files to AI</strong>
+  <img src="banner.png" alt="MASK · BEFORE · AI — Protect your privacy before uploading to AI" width="700">
 </p>
 
 <p align="center">
