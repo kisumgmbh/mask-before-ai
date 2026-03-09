@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 60" width="480" height="60">
+  <!-- Logo text: MASK·BEFORE· -->
+  <text x="10" y="42" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="28" font-weight="800" fill="#f1f5f9" letter-spacing="1">MASK·BEFORE·</text>
+  <!-- "AI" text behind sunglasses (partially visible) -->
+  <text x="370" y="42" font-family="'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="28" font-weight="800" fill="#475569" letter-spacing="1">AI</text>
+  <!-- Aviator sunglasses covering "AI" -->
+  <g transform="translate(358, 14)">
+    <!-- Bridge -->
+    <path d="M38 12 C36 8, 34 7, 30 9 M38 12 C40 8, 42 7, 46 9" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round"/>
+    <!-- Left lens -->
+    <path d="M8 10 C8 4, 14 2, 24 4 C30 6, 32 10, 30 16 C28 22, 20 24, 14 22 C8 20, 6 16, 8 10 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="1.8"/>
+    <!-- Right lens -->
+    <path d="M46 4 C56 2, 66 4, 68 10 C70 16, 66 22, 58 24 C50 24, 44 20, 44 16 C42 10, 42 6, 46 4 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="1.8"/>
+    <!-- Left temple arm -->
+    <path d="M6 10 L-4 8" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round"/>
+    <!-- Right temple arm -->
+    <path d="M70 10 L80 8" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round"/>
+    <!-- Lens reflection (left) -->
+    <path d="M14 8 C16 6, 20 6, 22 8" fill="none" stroke="rgba(148,163,184,0.3)" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- Lens reflection (right) -->
+    <path d="M52 6 C54 4, 58 4, 62 7" fill="none" stroke="rgba(148,163,184,0.3)" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+</svg>
